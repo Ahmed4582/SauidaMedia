@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "Home": "الصفحة الرئيسية",
+    "Exhibition": " المعرض",
+    "ForumAward": "جائزة المنتدي",
+    "SaudiArabiaEvents": "فعاليات السعودية",
+    "login": "تسجيل الدخول"
+  },
+  "login": "تسجيل الدخول",
+  "registerNow": "سجل الآن",
+  "reserveSpace": "أحجز مكانك الان",
+  "worldTitle": "في عالم يتشكل",
+  "mediaTitle": "الاعلام",
+  "date": {
+    "text": "  فبراير  19 - 21",
+    "year": "2025"
+  },
+  "location": {
+    "city": "الرياض،",
+    "country": "المملكة العربية السعودية"
+  }
+}

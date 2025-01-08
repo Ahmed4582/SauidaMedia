@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "Home": "Home ",
+    "Exhibition": " Exhibition",
+    "ForumAward": " Forum Award",
+    "SaudiArabiaEvents": "Saudi Arabia Events ",
+    "login": " Login"
+  },
+  "login": " Login",
+  "reserveSpace": "Reserve your place now",
+  "registerNow": "Register Now",
+  "mediaTitle": "Media",
+  "worldTitle": " In a world taking shape",
+  "date": {
+    "text": "19 - 21 February",
+    "year": "2025"
+  },
+  "location": {
+    "city": "Riyadh,",
+    "country": "Saudi Arabia"
+  }
+}
