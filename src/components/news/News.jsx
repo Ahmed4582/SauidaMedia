@@ -13,7 +13,7 @@ const NewsSocialSection = () => {
   const tweets = [
     {
       id: 1,
-      avatar: "../../../src/assets/favicon.ico",
+      avatar: "../../../public/assets/favicon.ico",
       handle: "المنتدى السعودي للإعلام 2024",
       content:
         "نستعد لإطلاق أكبر حدث إعلامي في المنطقة بمشاركة نخبة من صناع المحتوى والإعلام",
@@ -21,7 +21,7 @@ const NewsSocialSection = () => {
     },
     {
       id: 2,
-      avatar: "../../../src/assets/favicon.ico",
+      avatar: "../../../public/assets/favicon.ico",
       handle: "المنتدى السعودي للإعلام 2024",
       content:
         "فعاليات متنوعة وورش عمل متخصصة في مجال الإعلام الرقمي والتقليدي",
@@ -29,7 +29,7 @@ const NewsSocialSection = () => {
     },
     {
       id: 3,
-      avatar: "../../../src/assets/favicon.ico",
+      avatar: "../../../public/assets/favicon.ico",
       handle: "المنتدى السعودي للإعلام 2024",
       content: "انطلاق التسجيل في برامج وفعاليات المنتدى السعودي للإعلام",
       date: "2024 يناير",
@@ -142,7 +142,7 @@ const NewsSocialSection = () => {
               className="md:col-span-6 rounded-2xl overflow-hidden h-[400px]"
             >
               <img
-                src="../../../src/assets/step_into_future_11ad9.jpeg"
+                src="../../../public/assets/step_into_future_11ad9.jpeg"
                 alt="Saudi Media Forum"
                 className="w-full h-full object-cover"
               />
@@ -157,14 +157,14 @@ const NewsSocialSection = () => {
             >
               <div className="rounded-lg overflow-hidden h-[180px]">
                 <img
-                  src="../../../src/assets/step_into_future_11ad9.jpeg"
+                  src=".../../../public/assets/step_into_future_11ad9.jpeg"
                   alt="Event"
                   className="w-full h-full object-cover"
                 />
               </div>
               <div className="rounded-lg overflow-hidden h-[180px]">
                 <img
-                  src="../../../src/assets/step_into_future_11ad9.jpeg"
+                  src="../../../public/assets/step_into_future_11ad9.jpeg"
                   alt="Event"
                   className="w-full h-full object-cover"
                 />

@@ -70,7 +70,7 @@ const Hero = () => {
           {
             icon: (
               <img
-                src="../../../src/assets/heroIconicLogo.svg"
+                src="../../../public/assets/heroIconicLogo.svg"
                 className="w-full"
                 alt=""
               />

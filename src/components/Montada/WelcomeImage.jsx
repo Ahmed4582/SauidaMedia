@@ -18,7 +18,7 @@ const WelcomeImage = () => {
       <div>
         <img
           className="w-full h-full object-cover overflow-hidden"
-          src="../../../src/assets/welcome_image6181.jpeg"
+          src="../../../public/assets/welcome_image6181.jpeg"
           alt="Welcome"
         />
       </div>
@@ -34,7 +34,7 @@ const WelcomeImage = () => {
         {/* الشعار */}
         <div className="flex justify-center mb-10 mt-8 overflow-hidden">
           <motion.img
-            src="../../../src/assets/logoAr.svg"
+            src="../../../public/assets/logoAr.svg"
             alt="FOMEX"
             className="h-8 md:h-16"
             initial="hidden"
@@ -90,7 +90,7 @@ const WelcomeImage = () => {
             >
               <div className="absolute inset-0 h-[300px] md:h-[500px] bg-green-500 rounded-3xl transform scale-90 -translate-x-8 md:-translate-x-32 -translate-y-8 md:-translate-y-16 w-3/4 md:w-3/4" />
               <img
-                src="../../../src/assets/participants_2e149.png"
+                src="../../../public/assets/participants_2e149.png"
                 alt="Media Professional"
                 className="relative z-10 rounded-2xl w-full object-cover"
               />

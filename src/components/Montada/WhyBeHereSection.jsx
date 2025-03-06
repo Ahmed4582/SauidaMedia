@@ -6,19 +6,19 @@ const WhyBeHereSection = () => {
       title: "تواصل مع رواد الإعلام",
       description:
         "اغتنم هذه الفرصة الإعلام وطور اتصال قوي مع موجهين التحول الرقمي في القطاع، وأنشئ علاقات مهنية قيمة مع الخبراء وبناء علاقات مهنية قيمة",
-      image: "../.../../../../src/assets/participants_45f4e.png",
+      image: "../../../public/assets/participants_45f4e.png",
     },
     {
       title: "اكتسب معرفة",
       description:
         "شارك في جلسات حوارية وورش عمل ومنصات تبحث عن المتحدثين والخبراء المميزين لنحصل على رؤى جديدة وأفكار مبتكرة تعزز من مهاراتك ومستواك",
-      image: "../.../../../../src/assets/participants_45f4e.png",
+      image: "../../../public/assets/participants_45f4e.png",
     },
     {
       title: "استكشف التكنولوجيا الحديثة",
       description:
         "اكتشف آخر ما توصلت إليه التكنولوجيا الإعلامية واطلع المبتكرات الجديدة في عالم تقنية المعلومات التي تعيد تشكيل مستقبل الإعلام",
-      image: "../.../../../../src/assets/participants_45f4e.png",
+      image: "../../../public/assets/participants_45f4e.png",
     },
   ];
 
