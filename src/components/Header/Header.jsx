@@ -65,7 +65,7 @@ const Header = () => {
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <div className="flex items-center gap-6">
             <img
-              src="public/assets/logoAr.svg"
+              src="assets/logoAr.svg"
               alt="Logo"
               className="h-8 md:h-11"
             />

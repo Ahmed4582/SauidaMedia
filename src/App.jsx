@@ -17,7 +17,7 @@ const App = () => {
         {/* Video Background for both Header and Hero */}
         <div className="absolute inset-0 w-full h-full overflow-hidden">
           <video autoPlay loop muted className="w-full h-full object-cover">
-            <source src="../../../public/assets/NoOutro.mp4" type="video/mp4" />
+            <source src="assets/NoOutro.mp4" type="video/mp4" />
           </video>
           {/* Overlay with gradient */}
           <div className="absolute inset-0 bg-gradient-to-b from-black/50 to-[#006D69]/70" />

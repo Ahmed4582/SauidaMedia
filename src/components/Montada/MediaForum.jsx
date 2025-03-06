@@ -10,15 +10,15 @@ const MediaForum = () => {
   const items = [
     {
       text: "التحديات العالمية في قطاع الإعلام من خلال استشراف ابرز القضايا التي تواجه الصناعة الإعلامية وكيفية التعامل معها في ظل التحولات المتسارعة",
-      image: "../../../public/assets/step_into_future_11ad9.jpeg",
+      image: "assets/step_into_future_11ad9.jpeg",
     },
     {
       text: "اقتصاد الإعلام الحديث عبر تحليل ديناميكيات الاقتصاد الإعلامي واستراتيجيات النمو والاستدامة في بيئة رقمية متطورة",
-      image: "../../../public/assets/step_into_future_11ad9.jpeg",
+      image: "assets/step_into_future_11ad9.jpeg",
     },
     {
       text: "مستقبل الإعلام وتنمية المواهب باستشراف ملامح الإعلام المستقبلي ودور الكفاءات المبدعة في إعادة تشكيل المشهد الإعلامي",
-      image: "../../../public/assets/step_into_future_11ad9.jpeg",
+      image: "assets/step_into_future_11ad9.jpeg",
     },
   ];
 

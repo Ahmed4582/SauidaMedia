@@ -49,19 +49,19 @@ const SaudiMediaAwards = () => {
             className="grid grid-cols-2 gap-4"
           >
             <motion.img
-              src="../../../public/assets/participants_19096.png"
+              src="assets/participants_19096.png"
               alt="Award ceremony 1"
               className="rounded-lg w-full h-full object-cover"
               variants={imageVariants}
             />
             <motion.img
-              src="../../../public/assets/participants_9874c.png"
+              src="assets/participants_9874c.png"
               alt="Award ceremony 2"
               className="rounded-lg w-full h-full object-cover"
               variants={imageVariants}
             />
             <motion.img
-              src="../../../public/assets/participants_51fc5.png"
+              src="assets/participants_51fc5.png"
               alt="Award ceremony main"
               className="col-span-2 rounded-lg w-full h-full object-cover"
               variants={imageVariants}

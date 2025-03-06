@@ -10,16 +10,16 @@ const Footer = () => {
   const isInView = useInView(footerRef, { once: false });
 
   const partners = [
-    ["../../../public/assets/Arabsat_logod217.png", "Partner 1"],
-    ["../../../public/assets/aramco3a41.jpeg", "Partner 2"],
-    ["../../../public/assets/Diriyah97cc.jpeg", "Partner 3"],
-    ["../../../public/assets/Arabsat_logod217.png", "Partner 4"],
-    ["../../../public/assets/elaqatc3fa.jpeg", "Partner 5"],
-    ["../../../public/assets/mixfm-newlooka39e.png", "Partner 6"],
-    ["../../../public/assets/mics977c.jpeg", "Partner 7"],
-    ["../../../public/assets/nabza91de.jpeg", "Partner 8"],
-    ["../../../public/assets/aramco3a41.jpeg", "Partner 9"],
-    ["../../../public/assets/Arabsat_logod217.png", "Partner 10"],
+    ["assets/Arabsat_logod217.png", "Partner 1"],
+    ["assets/aramco3a41.jpeg", "Partner 2"],
+    ["assets/Diriyah97cc.jpeg", "Partner 3"],
+    ["assets/Arabsat_logod217.png", "Partner 4"],
+    ["assets/elaqatc3fa.jpeg", "Partner 5"],
+    ["assets/mixfm-newlooka39e.png", "Partner 6"],
+    ["assets/mics977c.jpeg", "Partner 7"],
+    ["assets/nabza91de.jpeg", "Partner 8"],
+    ["assets/aramco3a41.jpeg", "Partner 9"],
+    ["assets/Arabsat_logod217.png", "Partner 10"],
   ];
 
   const containerVariants = {
