@@ -90,7 +90,7 @@ const MediaForum = () => {
             initial={{ x: -50 }}
             animate={{ y: [0, -10, 0] }}
             transition={{ duration: 2, repeat: Infinity, delay: i * 0.1 }}
-            className="text-lime-400 text-4xl sm:text-5xl md:text-6xl lg:text-7xl"
+            className="text-lime-600 text-4xl sm:text-5xl md:text-6xl lg:text-7xl"
           >
             ›
           </motion.div>

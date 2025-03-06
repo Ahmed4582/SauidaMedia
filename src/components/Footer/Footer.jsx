@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import { useInView } from "framer-motion";
 import { useRef } from "react";
-import { Facebook, Instagram, Linkedin, Twitter } from 'lucide-react';
+import { Facebook, Instagram, Linkedin, MessageCircle, Twitter } from 'lucide-react';
 
 
 const Footer = () => {
@@ -201,6 +201,9 @@ const Footer = () => {
             </a>
             <a href="#" className="hover:text-green-400 transition-colors">
               <Facebook className="w-6 h-6" />
+            </a>
+            <a href="#" className="hover:text-green-400 transition-colors">
+              <MessageCircle className="w-6 h-6" />
             </a>
           </div>
 
